@@ -175,3 +175,49 @@ const dinesh = {
 </div>
 
 ---
+# 🚀 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 📝 Description | ⚡ Tech Stack |
+|------------|----------------|--------------|
+| 🛒 MERN Ecommerce | Full Stack Ecommerce Website with Admin Panel, JWT Authentication, Cart, Orders | React, Node.js, Express.js, MongoDB |
+| 🌐 Portfolio Website | Responsive Personal Portfolio | React.js, Tailwind CSS |
+| ✅ Todo App | CRUD Todo Application | React.js |
+| 🧮 Calculator | JavaScript Calculator | HTML, CSS, JavaScript |
+
+</div>
+
+---
+
+# 🏅 Achievements
+
+🏆 3+ Years of Professional Experience
+
+🚀 MERN Stack Developer
+
+💻 React.js Frontend Developer
+
+📚 Currently Learning Docker & AWS
+
+🎯 Preparing for Product-Based Companies
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,redux,nextjs,typescript&theme=dark" />
+
+</p>
+
+---
+
+# 📜 Certifications
+
+- ✅ Introduction to Front-End Development
+- ✅ Excel Dashboard from Scratch for Beginners
+- ✅ MERN Stack Development (Pursuing)
+
+---

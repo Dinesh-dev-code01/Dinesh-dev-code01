@@ -1,177 +1,39 @@
-<div align="center">
+PuTTY README
+============
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,100:00C9FF&text=Hi%20👋,%20I'm%20Dinesh%20Kumar&fontAlignY=40&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+This is the README file for the PuTTY MSI installer distribution. If
+you're reading this, you've probably just run our installer and
+installed PuTTY on your system.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=850&lines=🚀+React.js+Developer;💻+MERN+Stack+Developer;⚡+Node.js+%7C+Express.js+%7C+MongoDB;🔥+Building+Modern+Web+Applications;🎯+Open+To+Work"/>
+What should I do next?
+----------------------
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Dinesh-dev-code01&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Dinesh-dev-code01?logo=github&style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/stars/Dinesh-dev-code01?style=for-the-badge&color=yellow"/>
-</p>
+If you want to use PuTTY to connect to other computers, or use PSFTP
+to transfer files, you should just be able to run them from the
+Start menu.
 
-</div>
+If you want to use the command-line file transfer utility PSCP, you
+will need to run this from a Command Prompt or equivalent, because it
+will not do anything useful without command-line options telling it
+what files to copy to and from where. You can do this by just running
+the command 'pscp' from a Command Prompt, if you used the installer's
+option to put the PuTTY installation directory on your PATH.
+Alternatively, you can always run pscp.exe by its full pathname, e.g.
+"C:\Program Files\PuTTY\pscp.exe".
 
----
+(Note that a Command Prompt that was already open before you ran the
+installer will not have inherited the update of PATH.)
 
-# 👨‍💻 About Me
+What do I do if it doesn't work?
+--------------------------------
 
-```javascript
-const dinesh = {
-    role: "React.js Developer",
-    professonal experience: "3+ Years",
-    company: "iMerit Technology",
-    location: "India 🇮🇳",
+The PuTTY home web site is
 
-    frontend: [
-        "React.js",
-        "JavaScript",
-        "HTML5",
-        "CSS3",
-        "Tailwind CSS",
-        "Bootstrap"
-    ],
+    https://www.chiark.greenend.org.uk/~sgtatham/putty/
 
-    backend: [
-        "Node.js",
-        "Express.js",
-        "MongoDB"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Postman"
-    ],
-
-    currentlyLearning: [
-        "Advanced MERN",
-        "Docker",
-        "AWS",
-        "System Design"
-    ],
-
-    passion: "Building beautiful & scalable web applications 🚀"
-};
-```
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:kdinesh18391@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/dinesh-kumar-53ba05301">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dinesh-dev-code01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 💡 Current Focus
-
-- 🚀 Developing Full Stack MERN Applications
-- 💼 Preparing for Product-Based Company Interviews
-- 🔥 Mastering Backend Development
-- 📚 Learning System Design & Docker
-- ⚡ Solving JavaScript & DSA Problems
-
----
-# 🚀 Tech Stack
-
-<div align="center">
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql&theme=dark" />
-</p>
-
-### 🛠 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify,figma&theme=dark" />
-</p>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dinesh-dev-code01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/](https://github-profile-trophy.vercel.app/)?user=Dinesh-dev-code01&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-dev-code01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dinesh-dev-code01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
-
----
-
-# ⚡ Coding Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinesh-dev-code01&theme=github_dark"/>
-
-</div>
-
----
-
-# 📈 Contribution Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinesh-dev-code01&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dinesh-dev-code01&theme=github_dark"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dinesh-dev-code01&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dinesh-dev-code01&theme=github_dark&utcOffset=5.5"/>
-
-</div>
-
----
+Here you will find our list of known bugs and pending feature
+requests. If your problem is not listed in there, or in the FAQ, or
+in the manuals, read the Feedback page to find out how to report
+bugs to us. PLEASE read the Feedback page carefully: it is there to
+save you time as well as us. Do not send us one-line bug reports
+telling us `it doesn't work'.

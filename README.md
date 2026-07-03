@@ -1,46 +1,80 @@
 <div align="center">
 
-# Hi 👋, I'm Dinesh Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,100:00C9FF&text=Hi%20👋,%20I'm%20Dinesh%20Kumar&fontAlignY=40&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-### 🚀 React.js Developer | MERN Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=850&lines=🚀+React.js+Developer;💻+MERN+Stack+Developer;⚡+Node.js+%7C+Express.js+%7C+MongoDB;🔥+Building+Modern+Web+Applications;🎯+Open+To+Work"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=React.js+Developer;MERN+Stack+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Always+Learning+New+Technologies;Open+to+Work+%F0%9F%9A%80" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Dinesh-dev-code01&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Dinesh-dev-code01?logo=github&style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/Dinesh-dev-code01?style=for-the-badge&color=yellow"/>
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 👨‍💻 About Me
 
-💼 Software Engineer with **3+ Years of Experience**
+```javascript
+const dinesh = {
+    role: "React.js Developer",
+    experience: "3+ Years",
+    company: "iMerit Technology",
+    location: "India 🇮🇳",
 
-🌱 Currently learning **Advanced MERN Stack & System Design**
+    frontend: [
+        "React.js",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "Bootstrap"
+    ],
 
-💻 Passionate about building modern, responsive web applications
+    backend: [
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+    ],
 
-🎯 Goal: Become a Senior Full Stack Developer
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman"
+    ],
 
-⚡ Fun Fact: I love solving coding challenges and building real-world projects.
+    currentlyLearning: [
+        "Advanced MERN",
+        "Docker",
+        "AWS",
+        "System Design"
+    ],
+
+    passion: "Building beautiful & scalable web applications 🚀"
+};
+```
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://linkedin.com/in/dinesh-kumar-53ba05301">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
 
 <a href="mailto:kdinesh18391@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/dinesh-kumar-53ba05301">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dinesh-dev-code01">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -48,9 +82,12 @@
 
 ---
 
-## 👨‍💻 Current Focus
+## 💡 Current Focus
 
-- 🚀 Building MERN Stack Applications
-- 📚 Preparing for Product-Based Company Interviews
-- 🔥 Learning Advanced Backend Development
-- ⚡ Improving DSA & Problem Solving Skills
+- 🚀 Developing Full Stack MERN Applications
+- 💼 Preparing for Product-Based Company Interviews
+- 🔥 Mastering Backend Development
+- 📚 Learning System Design & Docker
+- ⚡ Solving JavaScript & DSA Problems
+
+---

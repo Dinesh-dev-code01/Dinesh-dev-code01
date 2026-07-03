@@ -91,3 +91,88 @@ const dinesh = {
 - ⚡ Solving JavaScript & DSA Problems
 
 ---
+# 🚀 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql&theme=dark" />
+</p>
+
+### 🛠 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify,figma&theme=dark" />
+</p>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dinesh-dev-code01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinesh-dev-code01&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-dev-code01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dinesh-dev-code01&theme=algolia&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# ⚡ Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinesh-dev-code01&theme=github_dark"/>
+
+</div>
+
+---
+
+# 📈 Contribution Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinesh-dev-code01&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dinesh-dev-code01&theme=github_dark"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dinesh-dev-code01&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dinesh-dev-code01&theme=github_dark&utcOffset=5.5"/>
+
+</div>
+
+---

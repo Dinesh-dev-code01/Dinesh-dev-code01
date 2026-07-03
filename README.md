@@ -19,7 +19,7 @@
 ```javascript
 const dinesh = {
     role: "React.js Developer",
-    experience: "3+ Years",
+    professonal experience: "3+ Years",
     company: "iMerit Technology",
     location: "India 🇮🇳",
 

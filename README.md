@@ -285,3 +285,13 @@ const dinesh = {
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:00C9FF"/>
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dinesh-dev-code01/Dinesh-dev-code01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+---

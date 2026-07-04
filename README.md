@@ -121,9 +121,9 @@ const dinesh = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dinesh-dev-code01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dinesh-dev-code01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Dinesh-dev-code01&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Dinesh-dev-code01&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -131,20 +131,16 @@ const dinesh = {
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-dev-code01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dinesh-dev-code01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dinesh-dev-code01&theme=algolia&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dinesh-dev-code01&theme=onedark&no-frame=true&row=1&column=7"/>
 </p>
-
----
 
 # ⚡ Coding Activity
 

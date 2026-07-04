@@ -123,7 +123,7 @@ const dinesh = {
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dinesh-dev-code01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/](https://github-profile-trophy.vercel.app/)?user=Dinesh-dev-code01&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Dinesh-dev-code01&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -141,7 +141,7 @@ const dinesh = {
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dinesh-dev-code01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dinesh-dev-code01&theme=algolia&no-frame=true&column=7"/>
 </p>
 
 ---
